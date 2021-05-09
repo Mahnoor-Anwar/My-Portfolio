@@ -1,0 +1,12 @@
+*{
+
+text-align: center;
+
+}
+body {
+    background-image: linear-gradient(to right, rgba(234, 0, 255, 0.685) , rgb(113, 70, 214));
+    font-family: 'Lobster', cursive;
+    margin-top: 8cm;
+    color: white;
+
+  }
